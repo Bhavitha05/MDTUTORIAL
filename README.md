@@ -17,3 +17,5 @@ This text is <em><strong>really important</strong></em>.
   <li>Third item</li>
   <li>Fourth item</li>
 </ol>
+
+![Screen Shot]{pic1.png}
