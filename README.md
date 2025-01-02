@@ -21,3 +21,7 @@ This text is <em><strong>really important</strong></em>.
 ![Screen Shot]{pic1.png}
 
 ![screen Shot](pic1.png)
+
+
+
+![Screen Shot](pic1.png)
