@@ -9,3 +9,4 @@
 
 <p>I think I'll use it to format all of my documents from now on.</p>
 
+This text is <em><strong>really important</strong></em>.
