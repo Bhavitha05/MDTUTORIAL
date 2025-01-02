@@ -18,10 +18,4 @@ This text is <em><strong>really important</strong></em>.
   <li>Fourth item</li>
 </ol>
 
-![Screen Shot]{pic1.png}
-
-![screen Shot](pic1.png)
-
-
-
-![Screen Shot](pic1.png)
+<img src="https://github.com/Bhavitha05/MDTUTORIAL/blob/main/pic1.png"/>
